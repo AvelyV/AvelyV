@@ -1,5 +1,5 @@
 ### 👋 Hi there, my name is Avely
-- 🌱 I’m currently studying full stack web development at Coder Academy
+- 🌱 I’m currently full stack web development student
 <!--
 **AvelyV/AvelyV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
